@@ -1,7 +1,7 @@
-function printName(name){
+exports.printName = (name) =>{
   console.log(name);
 }
 
-const lastName = 'Oliveira';
+exports.lastName = 'Oliveira';
 
-module.exports = { printName, lastName };
+//module.exports = { printName, lastName };
