@@ -1,3 +1,3 @@
-const modulo = require ('./printname')
+const os = require ('os');
 
-modulo.printName(`Luiz ${modulo.lastName}`)
+console.log(os.type());
