@@ -1,8 +1,8 @@
 # Node com yarn express
 
-###Data Source
+### Data Source
   + Fonte de dados (Array, SQL, NoSQL, .json, API)
-###Repository Pattern:
+### Repository Pattern:
   + Layer (camada) de abstração de acesso ao Data Source
 
 Controller ↔️ Data Source
