@@ -1,5 +1,5 @@
 node_modules
 .editorconfig
-.gitignore
+.eslint.js
 package.json
 yarn.lock
